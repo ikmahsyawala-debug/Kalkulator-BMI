@@ -17,14 +17,6 @@ Aplikasi Kalkulator Body Mass Index (BMI) berbasis Java dengan menggunakan JavaF
 
 ![Tampilan Kalkulator BMI](kalkulatorBMI/screenshot/Tampilan-Aplikasi.png)
 
-## Teknologi yang Digunakan
-
-- Java 24
-- JavaFX 24.0.2
-- Maven
-- Scene Builder
-- NetBeans IDE
-
 ## Struktur Project
 
 ```text
@@ -111,15 +103,3 @@ Tinggi badan dalam sentimeter dikonversi terlebih dahulu menjadi meter.
 | ≥ 30 | Obesitas |
 
 *Catatan: Kategori ini merupakan acuan sederhana untuk orang dewasa, bukan untuk interpretasi BMI anak dan remaja.*
-
-## Konsep Pemrograman
-
-Aplikasi ini menggunakan konsep Model-View-Controller (MVC):
-
-- **Model:** Mengelola proses perhitungan BMI dan penentuan kategori.
-- **View:** Menampilkan antarmuka aplikasi menggunakan JavaFX dan FXML.
-- **Controller:** Menghubungkan tampilan dengan proses perhitungan serta mengelola interaksi pengguna.
-
-## Author
-
-Dikembangkan sebagai project pembelajaran Java dan JavaFX.
