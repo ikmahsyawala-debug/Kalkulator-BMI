@@ -15,7 +15,7 @@ Aplikasi Kalkulator Body Mass Index (BMI) berbasis Java dengan menggunakan JavaF
 
 ## Tampilan Aplikasi
 
-![Tampilan Kalkulator BMI](screenshot/Tampilan-Aplikasi.png)
+![Tampilan Kalkulator BMI](kalkulatorBMI/screenshot/Tampilan-Aplikasi.png)
 
 ## Teknologi yang Digunakan
 
