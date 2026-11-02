@@ -1,0 +1,7 @@
+controller\BmiController.class
+model\BmiPria.class
+model\Bmi.class
+main\DemoTerminalMode.class
+model\BmiWanita.class
+com\mycompany\kalkulatorbmi\KalkulatorBMI.class
+main\MainApp.class
